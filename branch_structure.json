@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/ai-jobs-twitter-drafts-flags-apikey-audit",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/ai-jobs-twitter-drafts-flags-apikey-audit": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/ai-jobs-twitter-drafts-flags-apikey-audit",
+    "origin"
+  ]
+}
